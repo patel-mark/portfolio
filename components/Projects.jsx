@@ -165,7 +165,7 @@ export default function Projects() {
                 }`}
                 onClick={() => setActiveTab(tab)}
               >
-                {tab === "fullstack" ? "Data Science Projects" : tab === "mini" ? "Data Engineering Projects" : "Data Analytics Projects"}
+                {tab === "fullstack" ? "Data Science Projects" : tab === "mini" ? "Data Engineering Projects" : tab === "landing" ? "Data Analytics Projects":null}
               </button>
             ))}
           </div>
