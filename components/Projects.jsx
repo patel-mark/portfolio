@@ -13,6 +13,7 @@ import {
   SiTensorflow,
   SiOpencv,
   SiScikitlearn,
+  SiPostgresql,
   SiApachespark,
 } from "react-icons/si";
 import { FaAws} from "react-icons/fa";
