@@ -125,7 +125,7 @@ export default function Projects() {
   }
 
   return (
-    <section id="projects" className="py-20 bg-black text-white w-full">
+    <section id="projects" className="py-20 pt-0 bg-black text-white w-full">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-6xl">
         {/* Section Header */}
         <div className="text-center mb-16">
@@ -148,7 +148,7 @@ export default function Projects() {
             />
           </h2>
         </motion.div>
-          <p className="text-gray-400  max-w-lg mx-auto text-sm md:text-base">
+          <p className="text-gray-400  max-w-lg mx-auto text-sm md:text-base sm:mt-8">
           A portfolio highlighting full-spectrum data projects — including data engineering pipelines, machine learning models, and interactive dashboards for real-world insights.
           </p>
         </div>
