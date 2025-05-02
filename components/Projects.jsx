@@ -37,8 +37,8 @@ export default function Projects() {
       {
         title: "Algorithmic Trading Strategy using Backtesting Risk Analysis",
         url: "https://github.com/patel-mark/Algorithmic-Trading-Strategy-using-Backtesting-Risk-Analysis.git",
-        imageUrl: `https://github.com/patel-mark/Algorithmic-Trading-Strategy-using-Backtesting-Risk-Analysis.git`,
-        github: "https://github.com/21prnv/SatyaCheck",
+        imageUrl: `https://imgs.search.brave.com/AerjDP3LmJ9cEK2-0iDvYN_wySfmoyZ9u7kknm-f_lQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9z/dG9jay1leGNoYW5n/ZS10cmFkaW5nLWZv/cmV4LWZpbmFuY2Ut/Z3JhcGhpYy1jb25j/ZXB0XzUzODc2LTEy/Mjk5OS5qcGc_c2Vt/dD1haXNfaHlicmlk`,
+        github: "https://github.com/patel-mark/Algorithmic-Trading-Strategy-using-Backtesting-Risk-Analysis.git",
         techStack: ["PyTorch","Scikit-learn","Python"],
       },
       {
