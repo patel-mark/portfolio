@@ -29,16 +29,16 @@ export default function Projects() {
     fullstack: [
       {
         title: "Multi-Modal Predictive Models for Personalized Treatment",
-        url: "http://Eleweight.in",
-        imageUrl: `https://assets-global.website-files.com/63d4531932241e0aea882839/64a84e1c0200796d9b0dd7c6_GMAI-Model-Pipeline.webp`,
+        url: "https://github.com/patel-mark/Multi-Modal-Predictive-Models-for-Personalized-Treatment-.git",
+        imageUrl: `https://assets-globa.we2839/64a84e1c0200796d9b0dd7c6_GMAI-Model-Pipeline.webp`,
         github: "https://github.com/patel-mark/Multi-Modal-Predictive-Models-for-Personalized-Treatment-.git",
         techStack: ["Tensorflow", "Python", "Opencv", "Docker"],
       },
       {
         title: "Algorithmic Trading Strategy using Backtesting Risk Analysis",
-        url: "http://Satya-check.vercel.app",
+        url: "https://github.com/patel-mark/Algorithmic-Trading-Strategy-using-Backtesting-Risk-Analysis.git",
         imageUrl: `https://pbs.twimg.com/media/GoQUKMeWcAAAioD?format=jpg&name=medium`,
-        github: "https://github.com/21prnv/SatyaCheck",
+        github: "https://github.com/patel-mark/Algorithmic-Trading-Strategy-using-Backtesting-Risk-Analysis.git",
         techStack: ["PyTorch","Scikit-learn","Python"],
       },
       {
