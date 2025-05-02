@@ -28,19 +28,20 @@ export default function Projects() {
   const projects = {
     fullstack: [
       {
-        title: "Multi-Modal Predictive Models for Personalized Treatment",
-        url: "https://github.com/patel-mark/Multi-Modal-Predictive-Models-for-Personalized-Treatment-.git",
-        imageUrl: `https://assets-global.website-files.com/63d4531932241e0aea882839/64a84e1c0200796d9b0dd7c6_GMAI-Model-Pipeline.webp`,
-        github: "https://github.com/patel-mark/Multi-Modal-Predictive-Models-for-Personalized-Treatment-.git",
-        techStack: ["Tensorflow", "Python", "Opencv", "Docker"],
-      },
-      {
         title: "Algorithmic Trading Strategy using Backtesting Risk Analysis",
         url: "https://github.com/patel-mark/Algorithmic-Trading-Strategy-using-Backtesting-Risk-Analysis.git",
         imageUrl: `https://imgs.search.brave.com/AerjDP3LmJ9cEK2-0iDvYN_wySfmoyZ9u7kknm-f_lQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9z/dG9jay1leGNoYW5n/ZS10cmFkaW5nLWZv/cmV4LWZpbmFuY2Ut/Z3JhcGhpYy1jb25j/ZXB0XzUzODc2LTEy/Mjk5OS5qcGc_c2Vt/dD1haXNfaHlicmlk`,
         github: "https://github.com/patel-mark/Algorithmic-Trading-Strategy-using-Backtesting-Risk-Analysis.git",
         techStack: ["PyTorch","Scikit-learn","Python"],
       },
+      {
+        title: "Multi-Modal Predictive Models for Personalized Treatment",
+        url: "https://github.com/patel-mark/Multi-Modal-Predictive-Models-for-Personalized-Treatment-.git",
+        imageUrl: `https://assets-global.website-files.com/63d4531932241e0aea882839/64a84e1c0200796d9b0dd7c6_GMAI-Model-Pipeline.webp`,
+        github: "https://github.com/patel-mark/Multi-Modal-Predictive-Models-for-Personalized-Treatment-.git",
+        techStack: ["Tensorflow", "Python", "Opencv", "Docker"],
+      },
+      
       {
         title: " Real-Time Recommendation System with Reinforcement Learning",
         url: "https://github.com/patel-mark/Real-Time-Recommendation-System-with-Reinforcement-Learning.git",
