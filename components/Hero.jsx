@@ -20,7 +20,7 @@ const Hero = () => {
       <div className="flex flex-col-reverse md:flex-row justify-center md:gap-10 sm:py-4 items-center mt-8 md:mt-0">
         <div className="text-center md:text-center md:px-4 md:w-1/2">
           <div className="text-sm px-2 sm:px-0 font-normal text-white dark:text-white"
-          >I'm a Data scientist with expertise in machine learning, statistical analysis, and data visualization. Passionate about transforming complex datasets into actionable insights, I thrive in collaborative environments where data-driven approaches solve meaningful problems.
+          >I am a Data scientist with expertise in machine learning, statistical analysis, and data visualization. Passionate about transforming complex datasets into actionable insights, I thrive in collaborative environments where data-driven approaches solve meaningful problems.
           </div>
         </div>
       </div>
