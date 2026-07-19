@@ -30,35 +30,13 @@ export default function Projects() {
     fullstack: [
       {
         title: "Algorithmic Trading Strategy using Backtesting Risk Analysis",
-        url: "https://github.com/patel-mark/Algorithmic-Trading-Strategy-using-Backtesting-Risk-Analysis.git",
+        url: "https://github.com/patel-mark/Algorithmic-Trading-Strategy-using-Backtesting-Risk-Analysis",
         imageUrl: `https://imgs.search.brave.com/AerjDP3LmJ9cEK2-0iDvYN_wySfmoyZ9u7kknm-f_lQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9z/dG9jay1leGNoYW5n/ZS10cmFkaW5nLWZv/cmV4LWZpbmFuY2Ut/Z3JhcGhpYy1jb25j/ZXB0XzUzODc2LTEy/Mjk5OS5qcGc_c2Vt/dD1haXNfaHlicmlk`,
-        github: "https://github.com/patel-mark/Algorithmic-Trading-Strategy-using-Backtesting-Risk-Analysis.git",
+        github: "https://github.com/patel-mark/Algorithmic-Trading-Strategy-using-Backtesting-Risk-Analysis",
         techStack: ["PyTorch","Scikit-learn","Python"],
-      },
-      {
-        title: "Multi-Modal Predictive Models for Personalized Treatment",
-        url: "https://github.com/patel-mark/Multi-Modal-Predictive-Models-for-Personalized-Treatment-.git",
-        imageUrl: `https://assets-global.website-files.com/63d4531932241e0aea882839/64a84e1c0200796d9b0dd7c6_GMAI-Model-Pipeline.webp`,
-        github: "https://github.com/patel-mark/Multi-Modal-Predictive-Models-for-Personalized-Treatment-.git",
-        techStack: ["Tensorflow", "Python", "Opencv", "Docker"],
-      },
-      
-      {
-        title: " Real-Time Recommendation System with Reinforcement Learning",
-        url: "https://github.com/patel-mark/Real-Time-Recommendation-System-with-Reinforcement-Learning.git",
-        imageUrl: `https://th.bing.com/th/id/OIP.AC8JfGbRnYplip_BOgdEmwHaE8?rs=1&pid=ImgDetMain`,
-        github: "https://github.com/patel-mark/Real-Time-Recommendation-System-with-Reinforcement-Learning.git",
-        techStack: ["PyTorch","Python","Docker"],
       },
     ],
     mini: [
-      {
-        title: "Petabyte-Scale User Behavior Analytics Platform",
-        url: "https://github.com/patel-mark/Petabyte-Scale-User-Behavior-Analytics-Platform.git",
-        imageUrl: `https://miro.medium.com/max/1200/1*shhoBn8i_tSwSZR6dH9ziA.jpeg`,
-        github: "https://github.com/patel-mark/Petabyte-Scale-User-Behavior-Analytics-Platform.git",
-        techStack: ["Apache Kafka", "Apache Airflow", "Apache Cassandra", "Docker"],
-      },
       {
         title: "Data Warehouse and Analytics Project",
         url: "https://github.com/patel-mark/Data-Warehouse-and-Analytics-Project.git",
@@ -70,16 +48,16 @@ export default function Projects() {
     landing: [
       {
         title: "Telecom Customer Churn & CLV Prediction Pipeline",
-        url: "https://github.com/patel-mark/Telecom-Customer-Churn-CLV-Prediction-Pipeline.git",
+        url: "https://github.com/patel-mark/telecom-churn-clv",
         imageUrl: `https://i.postimg.cc/Qd8DYMzK/telecom-dashboard-merged.png`,
-        github: "https://github.com/patel-mark/Telecom-Customer-Churn-CLV-Prediction-Pipeline.git",
+        github: "https://github.com/patel-mark/telecom-churn-clv",
         techStack: ["Python", "PostgreSQL", "Scikit-learn", "Tableau"],
       },
       {
         title: "FinTech Credit Risk Monitor & Data Pipeline",
-        url: "https://github.com/patel-mark/FinTech-Credit-Risk-Monitor-Data-Pipeline.git",
+        url: "https://github.com/patel-mark/fintech-credit-monitor",
         imageUrl: `https://i.postimg.cc/jj6qCCz3/Fin-Tech-Credit-Risk-Dashboard-(5).png`,
-        github: "https://github.com/patel-mark/FinTech-Credit-Risk-Monitor-Data-Pipeline.git",
+        github: "https://github.com/patel-mark/fintech-credit-monitor",
         techStack: ["PostgreSQL","Power BI", "Docker", "Scikit-Learn"],
       },
     ],
